@@ -1,6 +1,6 @@
 # 🎉Joke Generator
 
-A simple web application that generates random jokes upon clicking a button. It utilizes the JokeAPI to fetch jokes from various categories and display them on the webpage.
+A simple web application that generates jokes upon clicking a button. It utilizes the JokeAPI to fetch jokes from various categories and display them on the webpage.
 
 ## ✨ Features
 
