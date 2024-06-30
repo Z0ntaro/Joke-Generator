@@ -5,7 +5,7 @@ A simple web application that generates jokes upon clicking a button. It utilize
 ## ✨ Features
 
 - 🃏 Generates random jokes upon button click.
-- `WARNING` includes all kinds of jokes.
+- `WARNING:` includes all kinds of jokes.
 - ⏳ Provides a loading indicator while fetching a joke.
 
 ## 🛠️ Technologies Used
