@@ -44,8 +44,6 @@ Feel free to contribute to this project by submitting issues or pull requests. E
 
 ---
 
-![Joke Generator](https://v2.jokeapi.dev/joke/Programming,Dark,Spooky)
-
 ### 📝 Contributing
 
 If you have suggestions for improving this project, please feel free to submit a pull request or open an issue.
