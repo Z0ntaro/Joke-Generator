@@ -27,7 +27,7 @@ A simple web application that generates jokes upon clicking a button. It utilize
 
 ## 🚀 Usage
 
-1. Open `joke.html` in your web browser.
+1. Open `index.html` in your web browser.
 2. Click the **"Generate"** button to generate a random joke.
 
 ## 🌐 API Used
