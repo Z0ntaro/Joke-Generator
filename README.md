@@ -5,19 +5,19 @@ A simple web application that generates jokes upon clicking a button. It utilize
 ## ✨ Features
 
 - 🃏 Generates jokes upon button click.
-- `WARNING:` includes all kinds of jokes.
+- `WARNING`: includes all kinds of jokes.
 - ⏳ Provides a loading indicator while fetching a joke.
 
 ## 🛠️ Technologies Used
 
-- 🌐 HTML
-- 🎨 CSS
-- ⚙️ JavaScript
+- 🌐 `HTML`
+- 🎨 `CSS`
+- ⚙️ `JavaScript`
 
 ## 📦 Installation
 
 1. Clone the repository:
-   git clone https://github.com/Z0ntaro/joke-generator.git
+   `git clone https://github.com/Z0ntaro/joke-generator.git`
 
 
 2. Navigate to the project directory:
