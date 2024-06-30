@@ -32,7 +32,7 @@ A simple web application that generates jokes upon clicking a button. It utilize
 
 ## 🌐 API Used
 
-[JokeAPI](https://jokeapi.dev/) - A RESTful API that provides random jokes in various categories.
+[JokeAPI](https://jokeapi.dev/) - A RESTFUL API that provides jokes in various categories.
 
 ## 📄 License
 
