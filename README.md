@@ -4,7 +4,7 @@ A simple web application that generates jokes upon clicking a button. It utilize
 
 ## ✨ Features
 
-- 🃏 Generates random jokes upon button click.
+- 🃏 Generates jokes upon button click.
 - `WARNING:` includes all kinds of jokes.
 - ⏳ Provides a loading indicator while fetching a joke.
 
@@ -22,7 +22,7 @@ A simple web application that generates jokes upon clicking a button. It utilize
 
 2. Navigate to the project directory:
 
-   `cd random-joke-generator`
+   `cd joke-generator`
 
 
 ## 🚀 Usage
