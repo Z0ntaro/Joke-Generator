@@ -41,13 +41,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to contribute to this project by submitting issues or pull requests. Enjoy making yourself and others happy with some random jokes! 😄
 
----
 
-### 📝 Contributing
+## 📝 Contributing
 
 If you have suggestions for improving this project, please feel free to submit a pull request or open an issue.
 
-### 📧 Contact
+## 📧 Contact
 
 For any inquiries, please contact [arghyadeep.0786@gmail.com](mailto:arghyadeep.0786@gmail.com).
 
