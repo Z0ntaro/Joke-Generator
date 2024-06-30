@@ -38,7 +38,6 @@ A simple web application that generates jokes upon clicking a button. It utilize
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 Feel free to contribute to this project by submitting issues or pull requests. Enjoy making yourself and others happy with some random jokes! 😄
 
