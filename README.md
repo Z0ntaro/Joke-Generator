@@ -1,11 +1,11 @@
-# 🎉Joke Generator
+# 🎉Joke Generator (`includes dark jokes`)
 
 A simple web application that generates jokes upon clicking a button. It utilizes the JokeAPI to fetch jokes from various categories and display them on the webpage.
 
 ## ✨ Features
 
 - 🃏 Generates random jokes upon button click.
-- 🚫 Excludes jokes with NSFW, religious, racist, sexist, and explicit content.
+- `WARNING` includes all kinds of jokes.
 - ⏳ Provides a loading indicator while fetching a joke.
 
 ## 🛠️ Technologies Used
