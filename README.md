@@ -22,7 +22,7 @@ A simple web application that generates jokes upon clicking a button. It utilize
 
 2. Navigate to the project directory:
 
-   cd random-joke-generator
+   'cd random-joke-generator'
 
 
 ## 🚀 Usage
